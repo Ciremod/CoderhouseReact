@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Alimento 1",
+    "id": 1,
+    "category": "alimentos",
+    "price": "$4.26",
+    "img": "https://r2.easyimg.io/6bj819fx0/alimento1.jpg"
+  },
+  {
+    "name": "Alimento 2",
+    "id": 2,
+    "category": "alimentos",
+    "price": "$0.47",
+    "img": "https://r2.easyimg.io/6bj819fx0/alimento2.jpg"
+  },
+  {
+    "name": "Cucha 1",
+    "id": 3,
+    "category": "camas",
+    "price": "$0.30",
+    "img": "https://r2.easyimg.io/6bj819fx0/cucha1.jpg"
+  },
+  {
+    "name": "Cucha 2",
+    "id": 4,
+    "category": "camas",
+    "price": "$7.19",
+    "img": "https://r2.easyimg.io/6bj819fx0/cucha2.jpg"
+  },
+  {
+    "name": "Juguete 1",
+    "id": 5,
+    "category": "juguetes",
+    "price": "$3.94",
+    "img": "https://r2.easyimg.io/6bj819fx0/juguete1.jpg"
+  }
+]
